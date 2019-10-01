@@ -7,3 +7,4 @@ markdown = DevOps.new("Hello World!")
 puts markdown.to_html
 ```
 end of file?
+No, not really :)
